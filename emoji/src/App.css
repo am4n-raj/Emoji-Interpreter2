@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.main{
+  text-align: center;
+  font-family: 'Poppins';
+}
+
+.title{
+  font-family:ubuntu;
+  margin-bottom:30px;
+  margin-top: 7%;
+  font-weight: 500;
+  word-spacing: 10px;
+}
+.emojiInput
+{
+    width: 300px;
+    height: 50px;
+    text-align:start;
+    border-radius: 6px;
+    transition: .1s ease-in;
+    margin-bottom:25px ;  
+}
+
+.emoji
+{
+  display: inline-block;
+  font-size: x-large;
+  margin: 15px;
+  cursor: pointer;
+}
+
+.meaning
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+.title2{
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
